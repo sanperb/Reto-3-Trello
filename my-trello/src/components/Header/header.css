@@ -1,0 +1,41 @@
+.barra-navegacion{
+    background-color: #e1f4be;
+    border-bottom: solid #cae39a;
+    border-width: thick;
+}
+/* Enlaces con logo */
+.bell-item{
+    margin-top: 0.1em;
+    color: #016378;
+    border-radius: 40%;
+    border-color: #016378;
+    width: 42px;
+    height: 40px;
+    box-shadow: 2px 2px 4px #CFD0D5;  
+}
+
+.user{
+    font-size: 2.5em;
+    color:#00907e;
+    margin-right: 0.5em;
+}
+
+/* Enlaces texto */
+.nav-link.home{
+    margin-top: 0.5em;
+}
+.nav-link.boards{
+    margin-top: 0.5em;
+
+}
+
+.addboard-item{
+    border-radius: 40%;
+    width: 42px;
+    height: 40px;
+    background-color: #00907e;
+    border: none;
+    color: white;
+    font-size: 20px;
+    box-shadow: 2px 2px 4px #CFD0D5;
+}

@@ -1,0 +1,35 @@
+/* Footer */
+
+.container-fluid{
+    display: flex;
+    align-items: center;
+    background-color:#016378; 
+
+}
+/* Enlaces y RRSS */
+.rrss{
+    margin: auto;
+}
+
+.copyright-container{
+    margin: auto;
+    color: #f2f3ba;
+    padding: 0.5em;
+    background-color: #00907e;
+    font-size: 14px;
+}
+
+.github{
+    color:#f2f3ba;
+}
+.github:hover{
+    color:white;
+}
+
+.twitter, .facebook, .instagram, .linkedin, .githublogo, .googleplus, .pinterest{
+    color: #bbdc7d;
+}
+
+.twitter:hover, .facebook:hover, .instagram:hover, .linkedin:hover, .githublogo:hover, .googleplus:hover, .pinterest:hover{
+    color: white;
+}
