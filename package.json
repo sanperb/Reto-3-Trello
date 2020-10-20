@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.31",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "array-move": "^3.0.1",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.20",
+    "popper.js": "^1.16.1",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-drag-drop-container": "^6.1.1",
+    "react-fontawesome": "^1.7.1",
+    "react-router-dom": "^5.2.0",
+    "react-smooth-dnd": "^0.11.1",
+    "react-sortable-hoc": "^1.11.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
